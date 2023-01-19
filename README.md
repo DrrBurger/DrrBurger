@@ -20,6 +20,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
     
+---
     
 ### :man_technologist: About Me :
     
@@ -30,3 +31,7 @@
 - :zap: In my free time, I solve problems on Codewar, read tech articles, and watchin it videos.
 
 - :mailbox:How to reach me: mr.krotkov.mm@mail.ru
+
+---
+    
+### :hammer_and_wrench: Languages and Tools :
