@@ -17,7 +17,7 @@
 </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://i.imgur.com/HIbS0Ph.png" width="1000" height="150"/>
 </div>
     
 ---
@@ -35,4 +35,32 @@ I gave all my conscious life to catering. Or rather, 13 years. I went through th
 
 ---
     
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools which I own now:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/JetBrains/logos/blob/master/web/pycharm/pycharm.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="50" height="60"/>&nbsp;
+</div>
+
+---
+    
+### :hammer_and_wrench: Languages and Tools which I'm going to study:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="DJ" alt="DJ" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FAPI" alt="FAPI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="FLASK" alt="FLASK" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
+</div>
+ 
+---
+    
+### :fire: My Stats :    
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DrrBurger&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrrBurger&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+    
