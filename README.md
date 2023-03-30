@@ -33,7 +33,7 @@ I gave all my conscious life to catering. Or rather, 13 years. I went through th
 
 - :zap: In my free time, I solve problems on Codewar, read tech articles, and watchin it videos.
 
-- :mailbox:How to reach me: mr.krotkov.mm@mail.ru
+- :mailbox:How to reach me: dr.burger.m@gmail.com
 
 ---
     
