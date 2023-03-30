@@ -32,7 +32,6 @@ I gave all my conscious life to catering. Or rather, 13 years. I went through th
   <li>Michael Dawson (Programming with Python)</li>
   <li>Mark Lutz (Learning Python 1st,2nd volume)</li>
 </ol>
-- :telescope: 
     
 - :seedling: 
 
