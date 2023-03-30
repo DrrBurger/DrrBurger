@@ -25,13 +25,14 @@
 ### :man_technologist: About Me : 
 I gave all my conscious life to catering. Or rather, 13 years. I went through the career ladder from an assistant cook to a chef. But it's time to change! And I don't regret that I chose programming as my new way !!!
 
-- :book:
+- :book: Al Sweigart (Automate the Boring Stuff with Python, Mark Lutz (Learning Python), Aditya Y. Bhargava (Grokking Algorithms),
+         Michael Dawson (Programming with Python)
 
 - :telescope: 
     
 - :seedling: 
 
-- :zap: In my free time, I solve problems on Codewar, read tech articles, and watchin it videos.
+- :zap: In my free time, I solve problems on Codewar, read tech articles, and watchin "IT" videos.
 
 - :mailbox:How to reach me: dr.burger.m@gmail.com
 
