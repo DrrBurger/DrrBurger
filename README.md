@@ -50,7 +50,6 @@ I gave all my conscious life to catering. Or rather, 13 years. I went through th
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="DJ" alt="DJ" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
 
 ---
