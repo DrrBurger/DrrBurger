@@ -28,28 +28,6 @@ In the past, I was a chef. Now I'm a Go and Python developer !!!
 - :zap: In my free time, I solve problems on Codewar, Leetcode, read tech articles, and watchin "IT" videos.
 
 - :mailbox:How to reach me: dr.burger.m@gmail.com
-
----
-    
-### :hammer_and_wrench: Languages and Tools which I own now:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/JetBrains/logos/blob/master/web/pycharm/pycharm.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="50" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="FLASK" alt="FLASK" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="DJ" alt="DJ" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-</div>
-
----
-    
-### :hammer_and_wrench: Languages and Tools which I'm going to study:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FAPI" alt="FAPI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
-</div>
  
 ---
     
