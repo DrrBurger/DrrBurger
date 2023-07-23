@@ -23,19 +23,9 @@
 ---
     
 ### :man_technologist: About Me : 
-I gave all my conscious life to catering. Or rather, 13 years. I went through the career ladder from an assistant cook to a chef. But it's time to change! And I don't regret that I chose programming as my new way !!!
+In the past, I was a chef. Now I'm a Go and Python developer !!!
 
-- :book: Books that I read or have already read
-<ol>
-  <li>Al Sweigart (Automate the Boring Stuff with Python)</li>
-  <li>Aditya Y. Bhargava (Grokking Algorithms)</li>
-  <li>Michael Dawson (Programming with Python)</li>
-  <li>Mark Lutz (Learning Python 1st,2nd volume)</li>
-</ol>
-    
-- :seedling: 
-
-- :zap: In my free time, I solve problems on Codewar, read tech articles, and watchin "IT" videos.
+- :zap: In my free time, I solve problems on Codewar, Leetcode, read tech articles, and watchin "IT" videos.
 
 - :mailbox:How to reach me: dr.burger.m@gmail.com
 
