@@ -24,7 +24,9 @@ In the past, I was a chef. Now I'm a Go and Python developer !!!
 
 - :zap: In my free time, I solve problems on Codewar, Leetcode, read tech articles, and watchin "IT" videos.
 
-- :mailbox:How to reach me: dr.burger.m@gmail.com
+- :mailbox:How to reach me:
+- [GMail]dr.burger.m@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/maksim-krotkov)
  
 ---
     
