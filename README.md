@@ -26,7 +26,7 @@ I love reading books and I love learning new things!!!
 
 - :zap: In my free time, I solve problems on Codewar, Leetcode, read tech articles, and watchin "IT" videos.
 
-- :mailbox:How to reach me:
+:mailbox:How to reach me:
 - [Email](dr.burger.m@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/maksim-krotkov)
  
