@@ -20,11 +20,11 @@
 ---
     
 ### :man_technologist: About Me : 
-In the past, I was a chef. Now I'm a Go and Python developer !!!
+- In the past, I was a chef. Now I'm a Go and Python developer !!!
 
-I love reading books and I love learning new things!!!
+- I love reading books and I love learning new things!!!
 
-- :zap: In my free time, I solve problems on Codewar, Leetcode, read tech articles, and watchin "IT" videos.
+- In my free time, I solve problems on Codewar, Leetcode, read tech articles, and watchin "IT" videos.
 
 :mailbox:How to reach me:
 - [Email](dr.burger.m@gmail.com)
