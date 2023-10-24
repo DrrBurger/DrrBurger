@@ -20,9 +20,9 @@
 ---
     
 ### :man_technologist: About Me : 
-- In the past, I was a chef. Now I'm a Go and Python developer !!!
+- I'm a Go and Python developer
 
-- I love reading books and I love learning new things!!!
+- I love reading books and I love learning new things
 
 - In my free time, I solve problems on Codewar, Leetcode, read tech articles, and watchin "IT" videos.
 
